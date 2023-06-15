@@ -125,7 +125,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("59e5609a8fd12483")
+/******/ 		__webpack_require__.h = () => ("56d78d8cd26f2e6b")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
@@ -194,7 +194,7 @@
 /******/ 		__webpack_require__.f.require = (chunkId, promises) => {
 /******/ 			// "1" is the signal for "already loaded"
 /******/ 			if(!installedChunks[chunkId]) {
-/******/ 				if("webpack-runtime" != chunkId) {
+/******/ 				if("app/page" == chunkId) {
 /******/ 					installChunk(require("./" + __webpack_require__.u(chunkId)));
 /******/ 				} else installedChunks[chunkId] = 1;
 /******/ 			}

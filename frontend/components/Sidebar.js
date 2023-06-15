@@ -4,7 +4,7 @@ import img1 from "../Videos/1.png";
 function Sidebar() {
   return (
     <>
-      <div className="w-64 h-screen bg-gray-800 fixed top-0 flex items-center text-gray-300 font-normal">
+      <div className="w-64 h-screen bg-gray-800 fixed top-0 flex items-center text-gray-300 font-normal z-50">
         <div className="w-full h-[87vh] bg-[#3c4b64]">
           <div className="w-full h-12 flex items-center hover:bg-gray-600 px-5 hover:text-stone-200 space-x-5">
             <svg
