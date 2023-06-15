@@ -30,7 +30,11 @@
 /******/ 		// Execute the module function
 /******/ 		var threw = true;
 /******/ 		try {
+<<<<<<< HEAD
 /******/ 			__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+=======
+/******/ 			__webpack_modules__[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+>>>>>>> refs/remotes/origin/main
 /******/ 			threw = false;
 /******/ 		} finally {
 /******/ 			if(threw) delete __webpack_module_cache__[moduleId];
@@ -125,7 +129,11 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
+<<<<<<< HEAD
 /******/ 		__webpack_require__.h = () => ("285a34bb2a7677a0")
+=======
+/******/ 		__webpack_require__.h = () => ("d020ecf16b49dcf3")
+>>>>>>> refs/remotes/origin/main
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
@@ -194,7 +202,11 @@
 /******/ 		__webpack_require__.f.require = (chunkId, promises) => {
 /******/ 			// "1" is the signal for "already loaded"
 /******/ 			if(!installedChunks[chunkId]) {
+<<<<<<< HEAD
 /******/ 				if("webpack-runtime" != chunkId) {
+=======
+/******/ 				if("app/page" == chunkId) {
+>>>>>>> refs/remotes/origin/main
 /******/ 					installChunk(require("./" + __webpack_require__.u(chunkId)));
 /******/ 				} else installedChunks[chunkId] = 1;
 /******/ 			}

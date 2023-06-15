@@ -1,5 +1,6 @@
 {
   "cssImports": {
+<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/app/layout.js": [
       "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css"
     ]
@@ -7,6 +8,15 @@
   "cssModules": {
     "/Users/iredui.b/Desktop/frontend_cl/frontend/app/page": [
       "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css"
+=======
+    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/layout.js": [
+      "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page": [
+      "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css"
+>>>>>>> refs/remotes/origin/main
     ]
   }
 }
