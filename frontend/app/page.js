@@ -1,6 +1,9 @@
 'use client';
 
 import React from "react";
+import Sidebar from "@/components/Sidebar";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import { useEffect } from "react";
 import { Chart } from "chart.js";
 
@@ -22,17 +25,20 @@ export default function Home() {
   ];
 
   return (
-    <div className="bg-white">
-      <LineChart />
-      <PieChart />
-      <div>
-        {cards.map((row, index) => (
-          <div className="w-40 h-32" style={{backgroundColor: row}} key={index}>
-          </div>
-        ))}
+    <>
+      <Sidebar />
+      <div className="w-screen h-auto bg-white">
+        <LineChart />
+        <PieChart />
+        <div>
+            {cards.map((row, index) => (
+            <div className="w-40 h-32" style={{backgroundColor: row}} key={index}>
+            </div>
+            ))}
+        </div>
       </div>
-    </div>
-  )
+    </>
+  );
 }
 
 const LineChart = () => {

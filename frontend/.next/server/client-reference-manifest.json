@@ -176,6 +176,26 @@
         "async": false
       }
     },
+    "(app-client)/./Videos/1.png": {
+      "*": {
+        "id": "(sc_client)/./Videos/1.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./Videos/1.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./Videos/1.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./app/page.js": {
       "*": {
         "id": "(sc_client)/./app/page.js",
@@ -877,6 +897,30 @@
       "chunks": [
         "static/css/app/layout.css"
       ]
+    },
+    "/Users/buyanaa/Desktop/frontend_cl/frontend/Videos/1.png": {
+      "id": "(app-client)/./Videos/1.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/buyanaa/Desktop/frontend_cl/frontend/Videos/1.png#": {
+      "id": "(app-client)/./Videos/1.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/buyanaa/Desktop/frontend_cl/frontend/Videos/1.png#default": {
+      "id": "(app-client)/./Videos/1.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     },
     "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page.js": {
       "id": "(app-client)/./app/page.js",
