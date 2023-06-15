@@ -891,6 +891,13 @@
       ],
       "async": false
     },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png": {
       "id": "(app-client)/./Videos/1.png",
       "name": "*",
@@ -938,13 +945,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
