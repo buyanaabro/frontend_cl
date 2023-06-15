@@ -79,7 +79,7 @@ const LineChart = () => {
   return (
     <>
       <div className="w-full h-auto flex mx-auto my-auto">
-        <div className="border border-gray-400 pt-0 rounded-xl  w-full h-fit my-auto  shadow-xl">
+        <div className="border pt-0 rounded-md  w-full h-fit my-auto  shadow-xl">
           <canvas id="myLineChart"></canvas>
         </div>
       </div>
@@ -177,8 +177,9 @@ const Card1LineChart = () => {
         datasets: [
           {
             label: "",
-            data: [86, 114, 106, 106, 107, 111, 133],
+            data: [0, 80, 30, 20, 15],
             backgroundColor: "#ffffff",
+            borderColor: "#ffffff",
             fill: false,
           },
         ],
@@ -190,13 +191,11 @@ const Card1LineChart = () => {
           }
         },
         scales: {
-          x: {
-            ticks: {
-              display: false,
-            }
-          },
           y: {
-            ticks: {
+            legend: {
+              display: none,
+            },
+            grid: {
               display: false,
             }
           }
@@ -207,9 +206,7 @@ const Card1LineChart = () => {
   return (
     <>
       <div className="w-full h-auto flex mx-auto my-auto">
-        <div className="pt-0 w-full h-fit my-auto">
           <canvas id="Card1LineChart"></canvas>
-        </div>
       </div>
     </>
   );
