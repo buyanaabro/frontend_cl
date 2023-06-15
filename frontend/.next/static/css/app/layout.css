@@ -499,9 +499,12 @@ video {
 .flex {
   display: flex;
 }
+<<<<<<< HEAD
 .grid {
   display: grid;
 }
+=======
+>>>>>>> refs/remotes/origin/main
 .h-12 {
   height: 3rem;
 }
@@ -572,9 +575,12 @@ video {
 .items-center {
   align-items: center;
 }
+<<<<<<< HEAD
 .gap-6 {
   gap: 1.5rem;
 }
+=======
+>>>>>>> refs/remotes/origin/main
 .space-x-5 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(1.25rem * var(--tw-space-x-reverse));
@@ -583,9 +589,12 @@ video {
 .overflow-auto {
   overflow: auto;
 }
+<<<<<<< HEAD
 .rounded-md {
   border-radius: 0.375rem;
 }
+=======
+>>>>>>> refs/remotes/origin/main
 .rounded-xl {
   border-radius: 0.75rem;
 }
@@ -663,8 +672,14 @@ video {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
+<<<<<<< HEAD
 .pl-64 {
   padding-left: 16rem;
+=======
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+>>>>>>> refs/remotes/origin/main
 }
 .pt-0 {
   padding-top: 0px;
@@ -675,6 +690,7 @@ video {
 .pt-32 {
   padding-top: 8rem;
 }
+<<<<<<< HEAD
 .pt-36 {
   padding-top: 9rem;
 }
@@ -686,15 +702,24 @@ video {
   font-size: 1.5rem;
   line-height: 2rem;
 }
+=======
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+>>>>>>> refs/remotes/origin/main
 .font-normal {
   font-weight: 400;
 }
 .font-bold {
   font-weight: 700;
 }
+<<<<<<< HEAD
 .font-semibold {
   font-weight: 600;
 }
+=======
+>>>>>>> refs/remotes/origin/main
 .text-gray-300 {
   --tw-text-opacity: 1;
   color: rgb(209 213 219 / var(--tw-text-opacity));
@@ -703,6 +728,7 @@ video {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+<<<<<<< HEAD
 .text-white\/75 {
   color: rgb(255 255 255 / 0.75);
 }
@@ -711,6 +737,10 @@ video {
 }
 .text-white\/90 {
   color: rgb(255 255 255 / 0.9);
+=======
+.text-white\/60 {
+  color: rgb(255 255 255 / 0.6);
+>>>>>>> refs/remotes/origin/main
 }
 .shadow-xl {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
@@ -731,5 +761,20 @@ video {
 .hover\:text-stone-200:hover {
   --tw-text-opacity: 1;
   color: rgb(231 229 228 / var(--tw-text-opacity));
+<<<<<<< HEAD
+=======
+}
+.focus\:outline-none:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+.focus-visible\:ring:focus-visible {
+  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+.focus-visible\:ring-opacity-75:focus-visible {
+  --tw-ring-opacity: 0.75;
+>>>>>>> refs/remotes/origin/main
 }
 
