@@ -176,35 +176,41 @@
         "async": false
       }
     },
-<<<<<<< HEAD
     "(app-client)/./Videos/1.png": {
       "*": {
         "id": "(sc_client)/./Videos/1.png",
-=======
-    "(app-client)/./app/page.js": {
-      "*": {
-        "id": "(sc_client)/./app/page.js",
->>>>>>> refs/remotes/origin/main
         "name": "*",
         "chunks": [],
         "async": false
       },
       "": {
-<<<<<<< HEAD
         "id": "(sc_client)/./Videos/1.png",
-=======
-        "id": "(sc_client)/./app/page.js",
->>>>>>> refs/remotes/origin/main
         "name": "",
         "chunks": [],
         "async": false
       },
       "default": {
-<<<<<<< HEAD
         "id": "(sc_client)/./Videos/1.png",
-=======
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/page.js": {
+      "*": {
         "id": "(sc_client)/./app/page.js",
->>>>>>> refs/remotes/origin/main
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/page.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/page.js",
         "name": "default",
         "chunks": [],
         "async": false
@@ -213,11 +219,7 @@
   },
   "edgeSSRModuleMapping": {},
   "clientModules": {
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -225,11 +227,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -237,11 +235,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -249,11 +243,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -261,11 +251,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -273,11 +259,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -285,11 +267,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -297,11 +275,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -309,11 +283,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -321,11 +291,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -333,11 +299,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -345,11 +307,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -357,11 +315,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -369,11 +323,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -381,11 +331,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -393,11 +339,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -405,11 +347,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -417,11 +355,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -429,11 +363,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -441,11 +371,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -453,11 +379,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -465,11 +387,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -477,11 +395,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -489,11 +403,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -501,11 +411,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -513,11 +419,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -525,11 +427,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -537,11 +435,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -549,11 +443,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -561,11 +451,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -573,11 +459,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -585,11 +467,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -597,11 +475,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -609,11 +483,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -621,11 +491,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -633,11 +499,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -645,11 +507,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -657,11 +515,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -669,11 +523,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -681,11 +531,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -693,11 +539,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -705,11 +547,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -717,11 +555,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -729,11 +563,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -741,11 +571,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -753,11 +579,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -765,11 +587,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -777,11 +595,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -789,11 +603,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -801,11 +611,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -813,11 +619,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -825,11 +627,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -837,11 +635,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -849,11 +643,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -861,11 +651,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -873,11 +659,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -885,11 +667,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -897,11 +675,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -909,11 +683,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -921,11 +691,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -933,11 +699,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -945,11 +707,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -957,11 +715,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -969,11 +723,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -981,11 +731,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -993,11 +739,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -1005,11 +747,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/layout-router.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/layout-router.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -1017,11 +755,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/layout-router.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/layout-router.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -1029,11 +763,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/layout-router.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/layout-router.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -1041,11 +771,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/layout-router.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/layout-router.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -1053,11 +779,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/layout-router.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/layout-router.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -1065,11 +787,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/layout-router.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/layout-router.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -1077,11 +795,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/render-from-template-context.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/render-from-template-context.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -1089,11 +803,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -1101,11 +811,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/render-from-template-context.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/render-from-template-context.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -1113,11 +819,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -1125,11 +827,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/render-from-template-context.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/render-from-template-context.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -1137,11 +835,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -1149,11 +843,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -1161,11 +851,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -1173,11 +859,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -1185,11 +867,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -1197,11 +875,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -1209,11 +883,7 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
->>>>>>> refs/remotes/origin/main
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -1221,55 +891,60 @@
       ],
       "async": false
     },
-<<<<<<< HEAD
-    "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png": {
-      "id": "(app-client)/./Videos/1.png",
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page.js": {
-      "id": "(app-client)/./app/page.js",
->>>>>>> refs/remotes/origin/main
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-<<<<<<< HEAD
-    "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png#": {
-      "id": "(app-client)/./Videos/1.png",
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page.js#": {
-      "id": "(app-client)/./app/page.js",
->>>>>>> refs/remotes/origin/main
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-<<<<<<< HEAD
-    "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png#default": {
-      "id": "(app-client)/./Videos/1.png",
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page.js#default": {
-      "id": "(app-client)/./app/page.js",
->>>>>>> refs/remotes/origin/main
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-<<<<<<< HEAD
     "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css#": {
-=======
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css#": {
->>>>>>> refs/remotes/origin/main
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
+    },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png": {
+      "id": "(app-client)/./Videos/1.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png#": {
+      "id": "(app-client)/./Videos/1.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/Videos/1.png#default": {
+      "id": "(app-client)/./Videos/1.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/page.js": {
+      "id": "(app-client)/./app/page.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/page.js#": {
+      "id": "(app-client)/./app/page.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/page.js#default": {
+      "id": "(app-client)/./app/page.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     }
   }
 }

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 // File: /Users/iredui.b/Desktop/frontend_cl/frontend/app/page.js
-=======
-// File: /Users/buyanaa/Desktop/frontend_cl/frontend/app/page.js
->>>>>>> refs/remotes/origin/main
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

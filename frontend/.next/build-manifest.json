@@ -3,10 +3,6 @@
     "static/chunks/polyfills.js"
   ],
   "devFiles": [
-<<<<<<< HEAD
-=======
-    "static/chunks/webpack.js",
->>>>>>> refs/remotes/origin/main
     "static/chunks/react-refresh.js"
   ],
   "ampDevFiles": [],
@@ -19,7 +15,6 @@
     "static/chunks/main-app.js"
   ],
   "pages": {
-<<<<<<< HEAD
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -30,9 +25,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ]
-=======
-    "/_app": []
->>>>>>> refs/remotes/origin/main
   },
   "ampFirstPages": []
 }
