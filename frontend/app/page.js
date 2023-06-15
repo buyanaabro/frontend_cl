@@ -6,13 +6,31 @@ import { Chart } from "chart.js";
 
 
 export default function Home() {
-  useEffect(() => {
+  let cards = [
+    {
+      bg: "primary"
+    },
+    {
+      bg: "secondary"
+    },
+    {
+      bg: "warning"
+    },
+    {
+      bg: "error"
+    }
+  ];
 
-  })
   return (
-    <div className="w-screen h-screen bg-white">
+    <div className="bg-white">
       <LineChart />
       <PieChart />
+      <div>
+        {cards.map((row, index) => (
+          <div className="w-40 h-32" style={{backgroundColor: row}} key={index}>
+          </div>
+        ))}
+      </div>
     </div>
   )
 }

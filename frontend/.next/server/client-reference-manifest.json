@@ -871,6 +871,13 @@
       ],
       "async": false
     },
+    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page.js": {
       "id": "(app-client)/./app/page.js",
       "name": "*",
@@ -894,13 +901,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
