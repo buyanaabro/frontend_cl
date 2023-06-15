@@ -1,0 +1,12 @@
+{
+  "cssImports": {
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/layout.js": [
+      "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/iredui.b/Desktop/frontend_cl/frontend/app/page": [
+      "/Users/iredui.b/Desktop/frontend_cl/frontend/app/globals.css"
+    ]
+  }
+}
