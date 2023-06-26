@@ -1,5 +1,10 @@
 import { useState } from "react";
-import { Card1LineChart, Card2LineChart, Card3LineChart, Card4LineChart } from "./charts";
+import {
+  Card1LineChart,
+  Card2LineChart,
+  Card3LineChart,
+  Card4LineChart,
+} from "./charts";
 
 export const Cards = () => {
   return (

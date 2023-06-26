@@ -16,7 +16,7 @@ export default function Home() {
     <div>
       <Header className="" />
       <Sidebar className="" />
-      <div className="w-screen h-auto pt-36 bg-white/50">
+      <div className="w-screen h-auto pt-36 bg-white">
         <div className="px-16 flex flex-col gap-6">
           <div className="flex gap-6 justify-center items-center">
             <Cards />
