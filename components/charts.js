@@ -29,7 +29,7 @@ export const LineChart = () => {
             borderColor: "#3e95cd",
             backgroundColor: "#7bb6dd",
             fill: false,
-            lineTension: 0,
+            lineTension: 0.1,
           },
           {
             data: [70, 78, 90, 79, 65, 60, 50, 70, 80, 100, 90, 80],
@@ -37,7 +37,7 @@ export const LineChart = () => {
             borderColor: "#3cba9f",
             backgroundColor: "#71d1bd",
             fill: false,
-            lineTension: 0,
+            lineTension: 0.1,
           },
           {
             data: [10, 25, 45, 56, 35, 20, 30, 55, 70, 55, 40, 60],
@@ -45,7 +45,7 @@ export const LineChart = () => {
             borderColor: "#ffa500",
             backgroundColor: "#ffc04d",
             fill: false,
-            lineTension: 0,
+            lineTension: 0.1,
           },
           {
             data: [6, 3, 10, 20, 7, 15, 10, 25, 17, 35, 30, 40],
@@ -53,7 +53,7 @@ export const LineChart = () => {
             borderColor: "#c45850",
             backgroundColor: "#d78f89",
             fill: false,
-            lineTension: 0,
+            lineTension: 0.1,
           },
         ],
       },

@@ -2,8 +2,10 @@ import React from "react";
 import { useState } from "react";
 import Image from "next/image";
 import { useRouter } from "next/router";
+import ovoolgo from "@/pages/ovoolgo";
 
 function Sidebar() {
+  const router = useRouter();
   const [expand, setExpand] = useState();
   const clickExpand = () => {
     if (expand == false) {
@@ -139,22 +141,26 @@ function Sidebar() {
               </svg>
               <div className={expand ? "hidden" : ""}>Dashboard</div>
             </button>
-            <button className="w-full h-12 flex items-center hover:bg-white/10 px-5 hover:text-hovertext space-x-5">
+            <button
+              onClick={() => router.push("/ovoolgo")}
+              className="w-full h-12 flex items-center hover:bg-white/10 px-5 hover:text-hovertext space-x-5"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
-                strokeWidth={1.5}
+                stroke-width="1.5"
                 stroke="currentColor"
                 className="w-[20px] h-[20px]"
               >
                 <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M2.25 7.125C2.25 6.504 2.754 6 3.375 6h6c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-6a1.125 1.125 0 01-1.125-1.125v-3.75zM14.25 8.625c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v8.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 01-1.125-1.125v-8.25zM3.75 16.125c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v2.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 01-1.125-1.125v-2.25z"
                 />
               </svg>
-              <div className={expand ? "hidden" : ""}>Dashboard</div>
+
+              <div className={expand ? "hidden" : ""}>Ovoolgo</div>
             </button>
             <div className="w-full h-80"></div>
             <button
