@@ -30,7 +30,7 @@ function Sidebar() {
               height={40}
             />
           </div>
-          <div className="w-full h-full bg-[#3c4b64] overflow-auto pt-5 scrollbar-none">
+          <div className="w-full h-full bg-[#3c4b64] overflow-auto pt-5 no-scrollbar">
             <button className="w-full h-12 flex items-center hover:bg-white/10 px-5 hover:text-stone-200 space-x-5 ">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
