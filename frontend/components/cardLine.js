@@ -1,5 +1,10 @@
 import { useState } from "react";
-import { Card1LineChart, Card2LineChart } from "./charts";
+import {
+  Card1LineChart,
+  Card2LineChart,
+  Card3LineChart,
+  Card4LineChart,
+} from "./charts";
 
 export const Cards = () => {
   return (
@@ -69,6 +74,9 @@ export const Cards = () => {
           </span>
         </div>
         <span className="text-white/90">Income</span>
+        <div className="w-full h-32 flex justify-center items-end">
+          <Card3LineChart />
+        </div>
       </div>
       <div className="Card4 w-[19.5rem] h-[10.5rem] bg-error rounded-md flex flex-col text-white p-4">
         <div className="flex">
@@ -89,6 +97,9 @@ export const Cards = () => {
           </span>
         </div>
         <span className="text-white/90">Income</span>
+        <div className="w-full h-32 flex justify-center items-end">
+          <Card4LineChart />
+        </div>
       </div>
     </>
   );

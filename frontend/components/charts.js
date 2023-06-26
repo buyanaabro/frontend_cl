@@ -168,7 +168,7 @@ export const Card1LineChart = () => {
   }, []);
   return (
     <>
-      <div className="w-5/6 h-1/2 flex justify-center items-end ">
+      <div className="w-full h-1/2 flex justify-center items-end ">
         <canvas height={100} id="Card1LineChart"></canvas>
       </div>
     </>
@@ -234,8 +234,127 @@ export const Card2LineChart = () => {
   }, []);
   return (
     <>
-      <div className="w-5/6 h-1/2 flex justify-center items-end ">
+      <div className="w-full h-1/2 flex justify-center items-end ">
         <canvas height={100} id="Card2LineChart"></canvas>
+      </div>
+    </>
+  );
+};
+export const Card3LineChart = () => {
+  useEffect(() => {
+    let ctx = document.getElementById("Card3LineChart").getContext("2d");
+    let Card3Chart = new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: [
+          "6 days ago",
+          "5 days ago",
+          "4 days ago",
+          "3 days ago",
+          "2 days ago",
+          "Yesterday",
+          "Today",
+        ],
+        datasets: [
+          {
+            label: "",
+            data: [5, 7, 9, 13, 12, 10, 11],
+            backgroundColor: "#FFFFFF50",
+            borderColor: "#FFFFFF90",
+          },
+        ],
+      },
+      options: {
+        scales: {
+          xAxes: [
+            {
+              display: false,
+              gridLines: {
+                display: false,
+              },
+            },
+          ],
+          yAxes: [
+            {
+              display: false,
+              trick: {
+                display: false,
+              },
+              gridLines: {
+                display: false,
+              },
+            },
+          ],
+        },
+        legend: {
+          display: false,
+        },
+      },
+    });
+  }, []);
+  return (
+    <>
+      <div className="w-full h-1/2 flex justify-center items-end ">
+        <canvas height={100} id="Card3LineChart"></canvas>
+      </div>
+    </>
+  );
+};
+export const Card4LineChart = () => {
+  useEffect(() => {
+    let ctx = document.getElementById("Card4LineChart").getContext("2d");
+    let Card4Chart = new Chart(ctx, {
+      type: "bar",
+      data: {
+        labels: [
+          "6 days ago",
+          "5 days ago",
+          "4 days ago",
+          "3 days ago",
+          "2 days ago",
+          "Yesterday",
+          "Today",
+        ],
+        datasets: [
+          {
+            label: "",
+            data: [5, 7, 9, 13, 12, 10, 11],
+            backgroundColor: "#FFFFFF80",
+          },
+        ],
+      },
+      options: {
+        scales: {
+          xAxes: [
+            {
+              display: false,
+              gridLines: {
+                display: false,
+              },
+            },
+          ],
+          yAxes: [
+            {
+              display: false,
+              trick: {
+                display: false,
+              },
+              gridLines: {
+                display: false,
+              },
+            },
+          ],
+        },
+        legend: {
+          display: false,
+        },
+      },
+    });
+  }, []);
+  return (
+    <>
+      <div className="w-full h-1/2 flex justify-center items-end ">
+        <canvas height={100} id="Card4LineChart"></canvas>
       </div>
     </>
   );
