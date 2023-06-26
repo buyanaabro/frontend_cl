@@ -1,12 +1,12 @@
 {
   "cssImports": {
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/layout.js": [
-      "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css"
+    "D:\\ErdenesTT\\dashboard_admin\\frontend_cl\\frontend\\app\\layout.js": [
+      "D:\\ErdenesTT\\dashboard_admin\\frontend_cl\\frontend\\app\\globals.css"
     ]
   },
   "cssModules": {
-    "/Users/buyanaa/Desktop/frontend_cl/frontend/app/page": [
-      "/Users/buyanaa/Desktop/frontend_cl/frontend/app/globals.css"
+    "D:\\ErdenesTT\\dashboard_admin\\frontend_cl\\frontend\\app\\page": [
+      "D:\\ErdenesTT\\dashboard_admin\\frontend_cl\\frontend\\app\\globals.css"
     ]
   }
 }
